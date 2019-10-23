@@ -1,0 +1,32 @@
+[
+    {
+        "uid": "urn:uuid:3565bd76-f4bf-11e9-802a-5aa538984bd8",
+        "updateDate": "2019-10-23T11:32:59+0000",
+        "titleText": "La Ville recrute des animateurs",
+        "mainText": "Vous souhaitez travailler auprès des enfants ? Pour quelques heures par semaine ou à temps plein ? La ville de Saint-Germain-en-Laye recrute des animateurs périscolaires pour renforcer ses équipes dans les centres de loisirs maternels et élémentaires."
+    },
+    {
+        "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6e",
+        "updateDate": "2019-10-21T00:00:00.0Z",
+        "titleText": "Ouverture des inscriptions pour les colonies de vacances d'hiver 2020",
+        "mainText": "FTB Explorer's organise des colonies de vacances pour les enfants et adolescents de 4 à 18 ans en France et à l'étranger. Inscrivez-vous dès maintenant pour les colonies d'hiver de 2020."
+    },
+    {
+        "uid": "urn:uuid:3565bc40-f4bf-11e9-802a-5aa538984bd8",
+        "updateDate": "2019-10-23T11:32:59+0000",
+        "titleText": "Projection du film La grande épopée de Napoléon",
+        "mainText": "Rendez-vous le samedi 9 novembre à la médiathèque du Jardin des Arts pour la projection du film La grande épopée de Napoléon à 15h."
+    },
+    {
+        "uid": "urn:uuid:3565b84e-f4bf-11e9-802a-5aa538984bd8",
+        "updateDate": "2019-10-09T11:32:59+0000",
+        "titleText": "CONCOURS-PHOTO LA BIODIVERSITÉ À SAINT-GERMAIN-EN-LAYE, C’EST QUOI POUR MOI ?",
+        "mainText": "Le concours-photo se déroule jusqu'au 30 novembre avec de très beaux lots à la clef : pass famille au muséum national d’Histoire naturelle, pass famille accrobranche, sortie poney et nature, cours de macro photographie, ateliers"
+    },
+    {
+        "uid": "urn:uuid:3565bad8-f4bf-11e9-802a-5aa538984bd8",
+        "updateDate": "2019-10-09T11:32:59+0000",
+        "titleText": "INTERRUPTION DE CIRCULATION DES LIGNES A, L ET J",
+        "mainText": "A l’occasion du week-end de la Toussaint, plusieurs chantiers de travaux auront lieu sur les lignes A, L et J qui nécessiteront l’interruption des circulations de trains et de RER."
+    }
+]
