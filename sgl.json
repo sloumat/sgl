@@ -1,4 +1,10 @@
 [
+        {
+        "uid": "urn:uuid:3565bad8-f4bf-11e9-802a-5aa538984bd8",
+        "updateDate": "2019-10-23T11:32:59+0000",
+        "titleText": "Vivez l’expérience du Co-Développement",
+        "mainText": "Pour ceux cherchant des solutions à leurs interrogations, l'association le Quai des possibles propose une fois par mois des ateliers de coaching sur le co-développement."
+    },
     {
         "uid": "urn:uuid:3565bd76-f4bf-11e9-802a-5aa538984bd8",
         "updateDate": "2019-10-23T11:32:59+0000",
@@ -22,11 +28,5 @@
         "updateDate": "2019-10-09T11:32:59+0000",
         "titleText": "CONCOURS-PHOTO LA BIODIVERSITÉ À SAINT-GERMAIN-EN-LAYE, C’EST QUOI POUR MOI ?",
         "mainText": "Le concours-photo se déroule jusqu'au 30 novembre avec de très beaux lots à la clef : pass famille au muséum national d’Histoire naturelle, pass famille accrobranche, sortie poney et nature, cours de macro photographie, ateliers"
-    },
-    {
-        "uid": "urn:uuid:3565bad8-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-09T11:32:59+0000",
-        "titleText": "INTERRUPTION DE CIRCULATION DES LIGNES A, L ET J",
-        "mainText": "A l’occasion du week-end de la Toussaint, plusieurs chantiers de travaux auront lieu sur les lignes A, L et J qui nécessiteront l’interruption des circulations de trains et de RER."
     }
 ]
