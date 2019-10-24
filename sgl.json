@@ -1,32 +1,38 @@
 [
         {
+        "uid": "urn:uuid:aed1a814-f63b-11e9-b82c-5aa538984bd8",
+        "updateDate": "2019-10-24T10:53:00+0000",
+        "titleText": "Venez fêter halloween sur la place du Marché-Neuf",
+        "mainText": "Jeudi 31 octobre, la place du Marché-Neuf et ses commerçants accueillent petits et grands pour un après-midi horrifique"
+        },
+        {
         "uid": "urn:uuid:3565bad8-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-23T19:21:59+0000",
-        "titleText": "Vivez l’expérience du Co-Développement",
-        "mainText": "Pour ceux cherchant des solutions à leurs interrogations, l'association le Quai des possibles propose une fois par mois des ateliers de coaching sur le co-développement."
-    },
-    {
+        "updateDate": "2019-10-24T10:51:00+0000",
+        "titleText": "Le mois de novembre à l'Université libre",
+        "mainText": "Tout au long du mois de novembre, l'Université libre de Saint Germain-en-Laye accueille ses adhérents au cours de conférences, salle Jacques-Tati."
+        },
+        {
         "uid": "urn:uuid:3565bd76-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-23T11:32:59+0000",
-        "titleText": "La Ville recrute des animateurs",
-        "mainText": "Vous souhaitez travailler auprès des enfants ? Pour quelques heures par semaine ou à temps plein ? La ville de Saint-Germain-en-Laye recrute des animateurs périscolaires pour renforcer ses équipes dans les centres de loisirs maternels et élémentaires."
-    },
-    {
+        "updateDate": "2019-10-24T10:50:59+0000",
+        "titleText": "Murder Party à la villa Eugénie-Désoyer",
+        "mainText": "Venez tenter de résoudre un crime qui a eu lieu à la villa Eugénie-Désoyer..."
+        },
+        {
         "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6e",
-        "updateDate": "2019-10-21T00:00:00.0Z",
-        "titleText": "Ouverture des inscriptions pour les colonies de vacances d'hiver 2020",
-        "mainText": "FTB Explorer's organise des colonies de vacances pour les enfants et adolescents de 4 à 18 ans en France et à l'étranger. Inscrivez-vous dès maintenant pour les colonies d'hiver de 2020."
-    },
-    {
+        "updateDate": "2019-10-24T10:49:59+0000",
+        "titleText": "La CLEF : Nuit Drum&Bass avec Benny Page feat. Baptiste et Elisa Do Brasil",
+        "mainText": "Venez nombreux pour assister au concert de la crème des artistes locaux drum & bass associés à deux pointures du genre : ça méritait bien une nuit entière"
+        },
+        {
         "uid": "urn:uuid:3565bc40-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-23T11:32:59+0000",
-        "titleText": "Projection du film La grande épopée de Napoléon",
-        "mainText": "Rendez-vous le samedi 9 novembre à la médiathèque du Jardin des Arts pour la projection du film La grande épopée de Napoléon à 15h."
-    },
-    {
+        "updateDate": "2019-10-24T10:49:59+0000",
+        "titleText": "Paris-Rouen à vélocipède",
+        "mainText": "Le 7 novembre, c'est le 150e anniversaire de la première course cycliste de fond au monde reliant Rouen à Paris. A cette occasion, les cyclistes passeront en vélocipède dans les rues de Saint-Germain-en-Laye entre 10h et 10h30."
+        },
+        {
         "uid": "urn:uuid:3565b84e-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-09T11:32:59+0000",
-        "titleText": "CONCOURS-PHOTO LA BIODIVERSITÉ À SAINT-GERMAIN-EN-LAYE, C’EST QUOI POUR MOI ?",
-        "mainText": "Le concours-photo se déroule jusqu'au 30 novembre avec de très beaux lots à la clef : pass famille au muséum national d’Histoire naturelle, pass famille accrobranche, sortie poney et nature, cours de macro photographie, ateliers"
-    }
+        "updateDate": "2019-10-24T10:32:59+0000",
+        "titleText": "Commémoration du 11 novembre",
+        "mainText": "L'ensemble de la population est cordialement invité à participer à cette cérémonie de l'Armistice du 11 novembre 1918, aux Monuments aux morts."
+        }
 ]
