@@ -1,5 +1,24 @@
 [
         {
+        "uid": "urn:uuid:b4991980-f74e-11e9-8f0b-362b9e155667",
+        "updateDate": "2019-10-25T17:42:20+0000",
+        "titleText": "Enquête logement 2020",
+        "mainText": "Le ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales effectue une importante enquête sur le logement en France métropolitaine du quatrième trimestre 2019 et pendant l'année 2020."
+        }
+        {
+        "uid": "urn:uuid:b4991be2-f74e-11e9-8f0b-362b9e155667",
+        "updateDate": "2019-10-25T17:42:20+0000",
+        "titleText": "Jeux départementaux de sport adapté des Yvelines",
+        "mainText": "Le Comité Départemental de Sport Adapté des Yvelines organise le 29 octobre une journée de rencontres sportives, au gymnase des Lavandières."
+        }
+        {
+        "uid": "urn:uuid:b4991d36-f74e-11e9-8f0b-362b9e155667",
+        "updateDate": "2019-10-25T17:42:20+0000",
+        "titleText": "U19 : PSG- Bruges",
+        "mainText": "Le mercredi 6 novembre, les jeunes espoirs du PSG rencontrent ceux du Club Bruges Royal à 15h, stade George-Lefèvre."
+        }
+        
+        {
         "uid": "urn:uuid:aed1a814-f63b-11e9-b82c-5aa538984bd8",
         "updateDate": "2019-10-24T10:53:00+0000",
         "titleText": "Venez fêter halloween sur la place du Marché-Neuf",
