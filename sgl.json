@@ -1,56 +1,32 @@
 [
+ 
         {
-        "uid": "urn:uuid:b4991980-f74e-11e9-8f0b-362b9e155667",
-        "updateDate": "2019-10-25T17:42:20+0000",
-        "titleText": "Enquête logement 2020",
-        "mainText": "Le ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales effectue une importante enquête sur le logement en France métropolitaine du quatrième trimestre 2019 et pendant l'année 2020."
-        }
-        {
-        "uid": "urn:uuid:b4991be2-f74e-11e9-8f0b-362b9e155667",
-        "updateDate": "2019-10-25T17:42:20+0000",
-        "titleText": "Jeux départementaux de sport adapté des Yvelines",
-        "mainText": "Le Comité Départemental de Sport Adapté des Yvelines organise le 29 octobre une journée de rencontres sportives, au gymnase des Lavandières."
-        }
-        {
-        "uid": "urn:uuid:b4991d36-f74e-11e9-8f0b-362b9e155667",
-        "updateDate": "2019-10-25T17:42:20+0000",
-        "titleText": "U19 : PSG- Bruges",
-        "mainText": "Le mercredi 6 novembre, les jeunes espoirs du PSG rencontrent ceux du Club Bruges Royal à 15h, stade George-Lefèvre."
-        }
-        
-        {
-        "uid": "urn:uuid:aed1a814-f63b-11e9-b82c-5aa538984bd8",
-        "updateDate": "2019-10-24T10:53:00+0000",
-        "titleText": "Venez fêter halloween sur la place du Marché-Neuf",
-        "mainText": "Jeudi 31 octobre, la place du Marché-Neuf et ses commerçants accueillent petits et grands pour un après-midi horrifique"
+        "uid": "urn:uuid:74e8370a-0570-11ea-8d71-362b9e155667",
+        "updateDate": "2019-11-12T17:19:44+0000",
+        "titleText": "Paul Vera et Louis Abel-Truchet, Belle Epoque et Grande Guerre",
+        "mainText": "Prolongation de l'exposition temporaire du fonds permanent Paul-et-André-Vera !"
         },
         {
-        "uid": "urn:uuid:3565bad8-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-24T10:51:00+0000",
-        "titleText": "Le mois de novembre à l'Université libre",
-        "mainText": "Tout au long du mois de novembre, l'Université libre de Saint Germain-en-Laye accueille ses adhérents au cours de conférences, salle Jacques-Tati."
-        },
-        {
-        "uid": "urn:uuid:3565bd76-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-24T10:50:59+0000",
-        "titleText": "Murder Party à la villa Eugénie-Désoyer",
+        "uid": "urn:uuid:74e83aac-0570-11ea-8d71-362b9e155667",
+        "updateDate": "2019-11-12T17:19:44+0000",
+        "titleText": "La maison natale Claude-Debussy accueille l'exposition PASSAGE. Debussy-Japon jusqu'au 1er janvier 2020.",
         "mainText": "Venez tenter de résoudre un crime qui a eu lieu à la villa Eugénie-Désoyer..."
         },
         {
-        "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6e",
-        "updateDate": "2019-10-24T10:49:59+0000",
+        "uid": "urn:uuid:74e83caa-0570-11ea-8d71-362b9e155667",
+        "updateDate": "2019-11-12T17:19:44+0000",
         "titleText": "La CLEF : Nuit Drum&Bass avec Benny Page feat. Baptiste et Elisa Do Brasil",
         "mainText": "Venez nombreux pour assister au concert de la crème des artistes locaux drum & bass associés à deux pointures du genre : ça méritait bien une nuit entière"
         },
         {
-        "uid": "urn:uuid:3565bc40-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-24T10:49:59+0000",
+        "uid": "urn:uuid:74e83ec6-0570-11ea-8d71-362b9e155667",
+        "updateDate": "2019-11-12T17:19:44+0000",
         "titleText": "Paris-Rouen à vélocipède",
         "mainText": "Le 7 novembre, c'est le 150e anniversaire de la première course cycliste de fond au monde reliant Rouen à Paris. A cette occasion, les cyclistes passeront en vélocipède dans les rues de Saint-Germain-en-Laye entre 10h et 10h30."
         },
         {
-        "uid": "urn:uuid:3565b84e-f4bf-11e9-802a-5aa538984bd8",
-        "updateDate": "2019-10-24T10:32:59+0000",
+        "uid": "urn:uuid:74e840d8-0570-11ea-8d71-362b9e155667",
+        "updateDate": "2019-11-12T17:19:44+0000",
         "titleText": "Commémoration du 11 novembre",
         "mainText": "L'ensemble de la population est cordialement invité à participer à cette cérémonie de l'Armistice du 11 novembre 1918, aux Monuments aux morts."
         }
